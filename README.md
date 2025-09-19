@@ -1,4 +1,4 @@
-<img width="1224" height="507" alt="Screenshot 2025-09-19 103630" src="https://github.com/user-attachments/assets/6cf46a35-614f-4ce0-b71a-2728cd6a96da" /># IdealSampling
+
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal sampling.
 # Tools required
