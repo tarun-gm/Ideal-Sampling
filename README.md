@@ -3,6 +3,7 @@
 Write a simple Python program for the construction and reconstruction of ideal sampling.
 # Tools required
 # Program
+```
  import numpy as np
  import matplotlib.pyplot as plt
  from scipy.signal import resample
@@ -39,7 +40,7 @@ Write a simple Python program for the construction and reconstruction of ideal s
  plt.grid(True)
  plt.legend()
  plt.show()
-
+```
 # Output Waveform
 <img width="1224" height="507" alt="Screenshot 2025-09-19 103630" src="https://github.com/user-attachments/assets/d2648c0f-d560-44d9-b419-20cc2c2c230d" />
 <img width="1146" height="504" alt="Screenshot 2025-09-19 103637" src="https://github.com/user-attachments/assets/3728f283-7295-4fe4-bc14-c8ac2c52b3a4" />
